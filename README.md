@@ -7,3 +7,7 @@ This section is supposed to contain some first steps material.
 Add a list of all different git commands and their purpose.
 
 New line.
+
+## Next Steps
+
+This section is supposed to contain some material for the next steps.
