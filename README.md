@@ -4,4 +4,4 @@
 
 This section is supposed to contain some first steps material.
 
-List of Git commands.
+Add a list of all different git commands and their purpose.
